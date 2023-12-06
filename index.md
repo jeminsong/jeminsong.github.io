@@ -3,8 +3,6 @@
 
 Hey there! I'm Jemin Song, a freshman at California State Fullerton University, set to graduate in the year 2027. I'm drawn to coputer science because it's a dynamic world where creativity and problem-solving collide. It's thrilling to explore how technology shapes our future and to be part of the innovation that drives it forward.
 
-## Computer Science Projects
-
 My Github page is http://github.com/jeminsong
 
 ## CPSC 120 Labs
