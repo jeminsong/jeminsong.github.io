@@ -17,4 +17,4 @@ My Github page is http://github.com/jeminsong
   This was my favorite lab, because I learned how to play blackjack and code the game. I managed to master if statements and variable declaration.
 
 * Lab 08 Part-1
-  This became my favorite lab as well. I managed to master arguments and somewhat understand if/else statements. Thus, by doing this lab I managed to create myself a        sandwich and savor it, all through newfound knowledge.
+  This became my favorite lab as well. I managed to master arguments and somewhat understand if statements. Thus, by doing this lab I managed to create myself a             sandwich and savor it, all through newfound knowledge. Additionally, I mastered how to use strings.
